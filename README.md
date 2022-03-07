@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdelrahman Mohammad.
-- 👀 I’m interested in Web Development and Game Development.
+- 👀 I’m interested in Web and Game Development.
 - 🌱 I’m currently learning Game Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @DevAbdelrahman on Twitter.
