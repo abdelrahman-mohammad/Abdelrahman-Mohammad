@@ -15,5 +15,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdelrahman-Mohammad&icon=5&color=12)](https://visitcount.itsvg.in)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Abdelrahman-Mohammad=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
