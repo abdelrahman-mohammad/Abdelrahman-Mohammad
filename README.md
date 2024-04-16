@@ -1,6 +1,6 @@
 ### Part-time Game & Software Developer | Computer Science Student
 
-A *Computer Science* enthusiast at **Eötvös Loránd University**, diving deep into the realms of technology. Currently, a member at **GDSC ELTE**, seeking novel challenges while fueled by curiosity-driven innovation. 🚀
+A *Computer Science* enthusiast at **Eötvös Loránd University**, diving deep into the realms of technology. Currently seeking novel challenges while fueled by curiosity-driven innovation. 🚀
 
 ## About Me </>
 
