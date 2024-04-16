@@ -1,17 +1,46 @@
+### Part-time Game & Software Developer | Computer Science Student
 
+A *Computer Science* enthusiast at **Eötvös Loránd University**, diving deep into the realms of technology. Currently, a member at **GDSC ELTE**, seeking novel challenges while fueled by curiosity-driven innovation. 🚀
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abdelrahman-Mohammad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman-Mohammad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Mohammad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## About Me </>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abdelrahman-Mohammad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I am curious and enthusiastic about technology, which leads me to explore different field specializations continually. I am adaptable and dedicated to upholding high standards. I excel in team settings and can effectively manage deadlines, whether working independently or as part of a team.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## Top Skills 🚀
 
+### Programming Languages ⌨️
+- Java
+- Javascript
+- C#
+- HTML5
+- CSS
+- PowerShell
+- Shell Scripting
+
+## Certifications 🎓
+- [C++](https://www.codecademy.com/profiles/abdelrahman.abdelaal/certificates/b74a2390dfc4127fa5d43fe147425ad0)
+- [Java](https://www.codecademy.com/profiles/abdelrahman.abdelaal/certificates/d3f89367b558583e361640f778191345)
+- [Javascript](https://www.codecademy.com/profiles/abdelrahman.abdelaal/certificates/705dcb15de0da4dd9d9fc4f3274b430e)
+- [Python - CS50P](https://courses.edx.org/certificates/2f6006c0f8b341f3b3b6b27353f8c0bc)
+- [HTML](https://www.codecademy.com/profiles/abdelrahman.abdelaal/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7)
+- [CSS](https://www.codecademy.com/profiles/abdelrahman.abdelaal/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7)
+- [CS - CS50X](
+- [Powershell](https://www.codecademy.com/profiles/abdelrahman.abdelaal/certificates/37a775c61b8540fe9dd54e384ca1c41d)
+- [Command Line](https://www.codecademy.com/profiles/abdelrahman.abdelaal/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
+- [Websockets](https://www.codecademy.com/profiles/abdelrahman.abdelaal/certificates/d0f004b5ab60b2bda59b6e38892b931b)
+
+## Projects 🗃️
+
+## Connect with Me 🌐
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/abdelrahman-m-abdelaal/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Abdelrahman-Mohammad)
+
+<!-- Feel free to add more sections or customize as needed -->
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdelrahman-Mohammad&theme=github-light)
+
+<img src="https://myreadme.vercel.app/api/embed/Abdelrahman-Mohammad?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+[![Abdelrahman's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=abdelrahman-abdelaal)](https://github.com/Abdelrahman-Mohammad/github-readme)
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdelrahman-Mohammad&icon=5&color=12)](https://visitcount.itsvg.in)
