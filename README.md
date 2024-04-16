@@ -24,7 +24,6 @@ I am curious and enthusiastic about technology, which leads me to explore differ
 - [Python - CS50P](https://courses.edx.org/certificates/2f6006c0f8b341f3b3b6b27353f8c0bc)
 - [HTML](https://www.codecademy.com/profiles/abdelrahman.abdelaal/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7)
 - [CSS](https://www.codecademy.com/profiles/abdelrahman.abdelaal/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7)
-- [CS - CS50X](
 - [Powershell](https://www.codecademy.com/profiles/abdelrahman.abdelaal/certificates/37a775c61b8540fe9dd54e384ca1c41d)
 - [Command Line](https://www.codecademy.com/profiles/abdelrahman.abdelaal/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
 - [Websockets](https://www.codecademy.com/profiles/abdelrahman.abdelaal/certificates/d0f004b5ab60b2bda59b6e38892b931b)
