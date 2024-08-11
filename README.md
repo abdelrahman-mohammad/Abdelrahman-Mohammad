@@ -16,6 +16,7 @@ I am curious and enthusiastic about technology, which leads me to explore differ
 - CSS
 - PowerShell
 - Shell Scripting
+- Verse
 
 ## Certifications 🎓
 - [C++](https://www.codecademy.com/profiles/abdelrahman.abdelaal/certificates/b74a2390dfc4127fa5d43fe147425ad0)
