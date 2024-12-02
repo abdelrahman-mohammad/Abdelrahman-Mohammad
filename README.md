@@ -40,7 +40,7 @@ I am curious and enthusiastic about technology, which leads me to explore differ
 [![Discord](https://skillicons.dev/icons?i=discord)](https://www.discord.com/@abdelrahman.abdelaal/)
 
 <!-- Feel free to add more sections or customize as needed -->
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdelrahman-Mohammad&theme=github-light)
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdelrahman-mohammad&theme=github-light)
 
 <img src="https://myreadme.vercel.app/api/embed/abdelrahman-mohammad?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
