@@ -35,14 +35,15 @@ I am curious and enthusiastic about technology, which leads me to explore differ
   
 ## Connect with Me 🌐
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdelrahman-m-abdelaal/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:abdelrahman5abdelaal@gmail.com)
 [![Github](https://skillicons.dev/icons?i=github)](https://www.github.com/abdelrahman-mohammad/)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://www.discord.com/@abdelrahman.abdelaal/)
 
 <!-- Feel free to add more sections or customize as needed -->
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdelrahman-Mohammad&theme=github-light)
 
-<img src="https://myreadme.vercel.app/api/embed/Abdelrahman-Mohammad?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/abdelrahman-mohammad?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-[![Abdelrahman's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=abdelrahman-abdelaal)](https://github.com/Abdelrahman-Mohammad/github-readme)
+[![Abdelrahman's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=abdelrahman-abdelaal)](https://github.com/abdelrahman-mohammad/github-readme)
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdelrahman-Mohammad&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abdelrahman-mohammad&icon=5&color=12)](https://visitcount.itsvg.in)
