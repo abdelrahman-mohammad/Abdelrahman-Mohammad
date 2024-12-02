@@ -8,14 +8,11 @@ I am curious and enthusiastic about technology, which leads me to explore differ
 
 ## Top Skills 🚀
 
-### Programming Languages ⌨️
 - Java
 - Javascript
+- HTML & CSS
 - C#
-- HTML5
-- CSS
-- PowerShell
-- Shell Scripting
+- PowerShell & Shell Scripting
 - Verse
 
 ## Projects 🗃️
