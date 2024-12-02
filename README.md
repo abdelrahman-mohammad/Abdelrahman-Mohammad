@@ -42,8 +42,6 @@ I am curious and enthusiastic about technology, which leads me to explore differ
 <!-- Feel free to add more sections or customize as needed -->
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdelrahman-mohammad&theme=github-light)
 
-<img src="https://myreadme.vercel.app/api/embed/abdelrahman-mohammad?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-[![Abdelrahman's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=abdelrahman-abdelaal)](https://github.com/abdelrahman-mohammad/github-readme)
+![Leetcode Stats](https://leetcard.jacoblin.cool/abdelrahman-abdelaal)
 ---
 [![](https://visitcount.itsvg.in/api?id=abdelrahman-mohammad&icon=5&color=12)](https://visitcount.itsvg.in)
