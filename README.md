@@ -34,9 +34,9 @@ I am curious and enthusiastic about technology, which leads me to explore differ
 - [Websockets](https://www.codecademy.com/profiles/abdelrahman.abdelaal/certificates/d0f004b5ab60b2bda59b6e38892b931b)
   
 ## Connect with Me 🌐
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/abdelrahman-m-abdelaal/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Abdelrahman-Mohammad)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdelrahman-m-abdelaal/)
+[![Github](https://skillicons.dev/icons?i=github)](https://www.github.com/abdelrahman-mohammad/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://www.discord.com/@abdelrahman.abdelaal/)
 
 <!-- Feel free to add more sections or customize as needed -->
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdelrahman-Mohammad&theme=github-light)
