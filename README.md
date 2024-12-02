@@ -18,6 +18,10 @@ I am curious and enthusiastic about technology, which leads me to explore differ
 - Shell Scripting
 - Verse
 
+## Projects 🗃️
+- [Railways](https://kingdom-railways.netlify.app)
+  - Railways is an online game centered on connecting railway tracks to form a seamless continuous loop.
+
 ## Certifications 🎓
 - [C++](https://www.codecademy.com/profiles/abdelrahman.abdelaal/certificates/b74a2390dfc4127fa5d43fe147425ad0)
 - [Java](https://www.codecademy.com/profiles/abdelrahman.abdelaal/certificates/d3f89367b558583e361640f778191345)
@@ -28,10 +32,6 @@ I am curious and enthusiastic about technology, which leads me to explore differ
 - [Powershell](https://www.codecademy.com/profiles/abdelrahman.abdelaal/certificates/37a775c61b8540fe9dd54e384ca1c41d)
 - [Command Line](https://www.codecademy.com/profiles/abdelrahman.abdelaal/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
 - [Websockets](https://www.codecademy.com/profiles/abdelrahman.abdelaal/certificates/d0f004b5ab60b2bda59b6e38892b931b)
-
-## Projects 🗃️
-- [Railways](https://kingdom-railways.netlify.app)
-  - Railways is an online game centered on connecting railway tracks to form a seamless continuous loop.
   
 ## Connect with Me 🌐
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/abdelrahman-m-abdelaal/)
